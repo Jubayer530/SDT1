@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+Documentation For Pharmacy Management System
+**This is the client side of the Pharmachy Management System site.**
 
-You can use the [editor on GitHub](https://github.com/Jubayer530/SDT1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jubayer530/SDT1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Registration Page
+![StoreOfficer_Registration](https://user-images.githubusercontent.com/78022149/180512679-cd715f08-b355-43c9-81fe-ba433f9f5397.jpg)
+Parameter	Input_Type	Description
+Name	text	It is a mandatory field. Must be 2 words and only A-Z, a-z, Dash(-) and Period( ) are allowed.
+Email	text	It is a mandatory field. Must be a valid email and user cannot use same email to open different account.
+User_Name	text	It is a mandatory field. Only a-z, 0-9, Dash(-) and Period( ) are allowed and user cannot use same username to open different account.
+Password	password	It is a mandatory field. Password must contain atleast 8 charecters.
+Confirm_Password	password	It is a mandatory field. Password and confirm passward need to be same.
+Gender	radio	It is a mandatory field.
+Phone_Number	text	It is a mandatory field. Only 0-9 is allowed and length must be exact 11.
+Date_of_Birth	date	It is a mandatory field.
+Login Page
+![StoreOfficer_Login](https://user-images.githubusercontent.com/78022149/180512973-fcaef386-393c-4e62-bd80-2499761ef51e.jpg)
