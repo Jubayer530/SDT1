@@ -1,4 +1,6 @@
 Documentation For Pharmacy Management System
+
+
 **This is the client side of the Pharmachy Management System site.**
 
 Registration Page
@@ -12,5 +14,7 @@ Confirm_Password	password	It is a mandatory field. Password and confirm passward
 Gender	radio	It is a mandatory field.
 Phone_Number	text	It is a mandatory field. Only 0-9 is allowed and length must be exact 11.
 Date_of_Birth	date	It is a mandatory field.
+
+
 Login Page
 ![StoreOfficer_Login](https://user-images.githubusercontent.com/78022149/180512973-fcaef386-393c-4e62-bd80-2499761ef51e.jpg)
